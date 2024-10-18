@@ -1,6 +1,6 @@
 //
 //  iLocalize.h
-//  iLocalizeSDK
+//  MindLocalizeSDK
 //
 //  Created by AIHelp on 2020/7/10.
 //  Copyright © 2020 AIHelp. All rights reserved.
