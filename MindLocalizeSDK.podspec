@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary           = "MindLocalizeSDK for iOS"
   s.homepage          = "http://mind-git.im30.lan/ilocalize/sdk-ios-demo.git"
   s.license      = { :type => "Apache-2.0", :file => "LICENSE" }
-  s.author            = { "MindLocalize" => "http://localize.mindoffice.lan/" }
+  s.author            = { "hanlaomo" => "https://localize.mindoffice.net/" }
   s.platform          = :ios, "9.0"
   s.requires_arc      = true
 
