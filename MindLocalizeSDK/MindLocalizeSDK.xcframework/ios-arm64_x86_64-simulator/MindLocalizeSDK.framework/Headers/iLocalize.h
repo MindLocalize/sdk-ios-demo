@@ -96,5 +96,8 @@ typedef void (*GGTranslationPreparedCallback)(bool success);
 + (void)checkStringOverflow:(iLCheckOverflowConfig *)config;
 
 + (void)enableEvaluateFunction:(BOOL)enable;
+
++ (NSString *)getSDKVersion;
+
 @end
 
