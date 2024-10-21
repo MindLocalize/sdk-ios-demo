@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name              = "MindLocalizeSDK"
-  s.version           = "1.7.3.20241021155534"
+  s.version           = "1.7.3.20241021165937"
   s.summary           = "MindLocalizeSDK for iOS"
   s.homepage          = "http://mind-git.im30.lan/ilocalize/sdk-ios-demo.git"
   s.license      = { :type => "Apache-2.0", :file => "LICENSE" }
